@@ -4,12 +4,6 @@
 
 <p id="description">Here you can generate some quotes by clicking on generate</p>
 
-<h2>🚀 Demo</h2>
-
-[http://127.0.0.1:5500/Quotes%20Generator/quotes.html](http://127.0.0.1:5500/Quotes%20Generator/quotes.html)
-
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
